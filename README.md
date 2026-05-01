@@ -1,6 +1,6 @@
 # Silkways Group — Full Stack Corporate Website
 
-A full-featured corporate website for **Silkways Group**, a 30-year-old Bangladeshi business conglomerate with 9+ sister concerns spanning aviation, cargo, travel, smart card manufacturing, flexible packaging, manpower recruitment, hospitality, and fine dining. Built end-to-end as a **Full Stack Developer** — from design planning and UI/UX to frontend development, backend API, and deployment — in **1 week**. Live at **https://silkwaysgroup.com/** and **https://silkwaysgroup-v2.vercel.app/**
+A full-featured corporate website for **Silkways Group**, a 30-year-old Bangladeshi business conglomerate with 9+ sister concerns spanning aviation, cargo, travel, smart card manufacturing, flexible packaging, manpower recruitment, hospitality, and fine dining. Built end-to-end as a **Full Stack Developer** — from design planning and UI/UX to frontend development, backend API, and deployment — in **1 week**. Production site: **https://silkwaysgroup.com/** — Updated live preview (latest version): **https://silkwaysgroup-v2.vercel.app/**
 
 ---
 
@@ -15,7 +15,7 @@ Designed and built the Silkways Group corporate website from scratch in 1 week a
 | Item | Detail |
 |---|---|
 | **Live Website** | https://silkwaysgroup.com/ |
-| **Preview** | https://silkwaysgroup-v2.vercel.app/ |
+| **Updated Live Preview** | https://silkwaysgroup-v2.vercel.app/ ← latest version |
 | **Duration** | 1 week |
 | **Role** | Full Stack Developer (design → deployment) |
 | **Frontend** | React 19, React Router 7 (SSR), TypeScript, Tailwind CSS 4, Framer Motion, Swiper.js, Radix UI, React Hook Form + Zod, Axios, react-fast-marquee, react-day-picker |
